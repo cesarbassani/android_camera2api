@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f6bc7f97d92547a5c1673997f5feec29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c30e940055df6099012044151e8208c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fc612acd3459d16f42353c8ae8ee82a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/91a537e1290bae3b79a0fc0217f203fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a4718631e44456bba50622dcc5310338/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ac0373bd2b664acc93428690141de384/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4867dc1eeac0f9b1fe4e1c63c2477ddb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3db72b19a44ad8b67a2a1151b3433556/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/900d90793eff19505954d1d8d26270df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0e6ac720a99406d96fcbeeb24e094442/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87cab2523b22df72b1938f9ea6a53e89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ae762f94701e67e9dc22d162c669564e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e861c57b127603feb5e3650cf76a2ef9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5887bca177d9cffc2ff59922fc58ea29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38ac688da0a350a80d48bee984c9e060/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/355209e074a51ffe8906988a651ad971/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c6f5f4e472276d5ecbb95241e8911970/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3091904a68605ad8a0a97191b7c3c718/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ab9d646cfa69fc22d4aa18844232e6c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/723d8eb54d64be0ce499741450daac4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/28242f091af3f11c7baa6b3d862f520b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e7983f551a31cb2bdb84d43ab033ff7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c8c258b85f5edf2bf747a4b3f6f5c23c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/56f9103f6f90d4128fa32bacd79764e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5eb6781e0f36d5d0ee0f4d082856df7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8f57173f8a76d9aca36e11b1104400fc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:18:5-47
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:20:5-64
+	android:name
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:20:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:22:22-78
+application
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:24:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38ac688da0a350a80d48bee984c9e060/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38ac688da0a350a80d48bee984c9e060/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/355209e074a51ffe8906988a651ad971/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/355209e074a51ffe8906988a651ad971/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38ac688da0a350a80d48bee984c9e060/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:25:9-36
+	android:theme
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:28:9-45
+activity#com.example.android.camera2video.CameraActivity
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:31:19-51
+	android:name
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:30:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f6bc7f97d92547a5c1673997f5feec29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f6bc7f97d92547a5c1673997f5feec29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c30e940055df6099012044151e8208c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c30e940055df6099012044151e8208c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fc612acd3459d16f42353c8ae8ee82a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fc612acd3459d16f42353c8ae8ee82a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/91a537e1290bae3b79a0fc0217f203fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/91a537e1290bae3b79a0fc0217f203fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a4718631e44456bba50622dcc5310338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a4718631e44456bba50622dcc5310338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ac0373bd2b664acc93428690141de384/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ac0373bd2b664acc93428690141de384/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4867dc1eeac0f9b1fe4e1c63c2477ddb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4867dc1eeac0f9b1fe4e1c63c2477ddb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3db72b19a44ad8b67a2a1151b3433556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3db72b19a44ad8b67a2a1151b3433556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/900d90793eff19505954d1d8d26270df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/900d90793eff19505954d1d8d26270df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0e6ac720a99406d96fcbeeb24e094442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0e6ac720a99406d96fcbeeb24e094442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87cab2523b22df72b1938f9ea6a53e89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87cab2523b22df72b1938f9ea6a53e89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ae762f94701e67e9dc22d162c669564e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ae762f94701e67e9dc22d162c669564e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e861c57b127603feb5e3650cf76a2ef9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e861c57b127603feb5e3650cf76a2ef9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5887bca177d9cffc2ff59922fc58ea29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5887bca177d9cffc2ff59922fc58ea29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38ac688da0a350a80d48bee984c9e060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38ac688da0a350a80d48bee984c9e060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/355209e074a51ffe8906988a651ad971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/355209e074a51ffe8906988a651ad971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c6f5f4e472276d5ecbb95241e8911970/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c6f5f4e472276d5ecbb95241e8911970/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3091904a68605ad8a0a97191b7c3c718/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3091904a68605ad8a0a97191b7c3c718/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ab9d646cfa69fc22d4aa18844232e6c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ab9d646cfa69fc22d4aa18844232e6c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/723d8eb54d64be0ce499741450daac4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/723d8eb54d64be0ce499741450daac4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/28242f091af3f11c7baa6b3d862f520b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/28242f091af3f11c7baa6b3d862f520b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e7983f551a31cb2bdb84d43ab033ff7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e7983f551a31cb2bdb84d43ab033ff7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c8c258b85f5edf2bf747a4b3f6f5c23c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c8c258b85f5edf2bf747a4b3f6f5c23c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/56f9103f6f90d4128fa32bacd79764e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/56f9103f6f90d4128fa32bacd79764e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5eb6781e0f36d5d0ee0f4d082856df7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5eb6781e0f36d5d0ee0f4d082856df7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8f57173f8a76d9aca36e11b1104400fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cesarbassani/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8f57173f8a76d9aca36e11b1104400fc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/cesarbassani/Documents/projetos/ANDROID/android-Camera2Video-master/kotlinApp/Application/src/main/AndroidManifest.xml
